@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div>
-      김민지 똥구멍
+      고오맙다
+      장성은ㄴ 똥쟁이
+      
     </div>
       
   );
